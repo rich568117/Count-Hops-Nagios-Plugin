@@ -41,6 +41,6 @@ elif [ $numberHOPS -gt $(($parameterW - 1)) ]; then
 	echo "WARNING - More than 7 Hops"
 	exit 1
 else
-echo "OK - Confirmed the Correcy Number of Hops"
+echo "OK - Confirmed the Correct Number of Hops"
 exit 0
 fi
